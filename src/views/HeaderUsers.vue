@@ -2,8 +2,7 @@
   <nav>
     <h2>Usersのヘッダー</h2>
     <router-link to="/" active-class="link--active" class="link" exact>Home</router-link>
-    <router-link to="/users"
-    active-class="link--active" class="link" exact>users</router-link>
+    <router-link to="/users" active-class="link--active" class="link" exact>Users</router-link>
   </nav>
 </template>
 
